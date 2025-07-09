@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9IO-N2kS)
-# William Cashon
+
 # CS50 Summer 2025, Lab 1
+
+Written William Cashon, Will-Cashon on Github. 
+Written for CS50 25X Lab 1
 
 GitHub username: Will-Cashon
 
